@@ -57,9 +57,16 @@ Ensure the following dependencies are installed (listed in `requirements.txt`):
 
 ```
 sentence-transformers
-numpy
-pickle
-flask
+streamlit
+pypdf2
+langchain
+langchain-community
+python-dotenv
+faiss-cpu
+openai
+huggingface_hub
+InstructorEmbedding
+sentence-transformers
 ```
 
 
